@@ -1,0 +1,16 @@
+C:\My Project\AlphaNew\bin\Debug\net5.0\AlphaNew.exe
+C:\My Project\AlphaNew\bin\Debug\net5.0\AlphaNew.deps.json
+C:\My Project\AlphaNew\bin\Debug\net5.0\AlphaNew.runtimeconfig.json
+C:\My Project\AlphaNew\bin\Debug\net5.0\AlphaNew.runtimeconfig.dev.json
+C:\My Project\AlphaNew\bin\Debug\net5.0\AlphaNew.dll
+C:\My Project\AlphaNew\bin\Debug\net5.0\ref\AlphaNew.dll
+C:\My Project\AlphaNew\bin\Debug\net5.0\AlphaNew.pdb
+C:\My Project\AlphaNew\obj\Debug\net5.0\AlphaNew.csproj.AssemblyReference.cache
+C:\My Project\AlphaNew\obj\Debug\net5.0\AlphaNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Project\AlphaNew\obj\Debug\net5.0\AlphaNew.AssemblyInfoInputs.cache
+C:\My Project\AlphaNew\obj\Debug\net5.0\AlphaNew.AssemblyInfo.cs
+C:\My Project\AlphaNew\obj\Debug\net5.0\AlphaNew.csproj.CoreCompileInputs.cache
+C:\My Project\AlphaNew\obj\Debug\net5.0\AlphaNew.dll
+C:\My Project\AlphaNew\obj\Debug\net5.0\ref\AlphaNew.dll
+C:\My Project\AlphaNew\obj\Debug\net5.0\AlphaNew.pdb
+C:\My Project\AlphaNew\obj\Debug\net5.0\AlphaNew.genruntimeconfig.cache
